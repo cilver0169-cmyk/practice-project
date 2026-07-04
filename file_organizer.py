@@ -1,6 +1,8 @@
 import shutil
 from pathlib import Path
 
+"""다운로드 폴더 파일 정리기"""
+
 # 다운로드 폴더 경로를 받아오기
 def get_downloads_folder():
     """사용자의 다운로드 폴더 경로 반환"""
